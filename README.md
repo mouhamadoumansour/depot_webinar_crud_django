@@ -1,0 +1,1 @@
+# depot_webinar_crud_django
